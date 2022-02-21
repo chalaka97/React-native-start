@@ -72,9 +72,9 @@ const App: () => Node = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
+          <Section title="Step One Test">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then come back to see your edits.
+            screen and then come back to see your edits Supun.
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
